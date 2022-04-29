@@ -55,11 +55,8 @@
 		6767E860281AC11300B296A9 /* firtApleApp */ = {
 			isa = PBXGroup;
 			children = (
-				6767E861281AC11300B296A9 /* firtApleAppApp.swift */,
-				6767E863281AC11300B296A9 /* ContentView.swift */,
-				6767E865281AC11400B296A9 /* Assets.xcassets */,
-				6767E86A281AC11400B296A9 /* Persistence.swift */,
-				6767E86C281AC11400B296A9 /* firtApleApp.xcdatamodeld */,
+				6791806B281C0835008EEF76 /* sourses */,
+				6791806A281C082A008EEF76 /* resourses */,
 				6767E867281AC11400B296A9 /* Preview Content */,
 			);
 			path = firtApleApp;
@@ -71,6 +68,25 @@
 				6767E868281AC11400B296A9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6791806A281C082A008EEF76 /* resourses */ = {
+			isa = PBXGroup;
+			children = (
+				6767E865281AC11400B296A9 /* Assets.xcassets */,
+				6767E86C281AC11400B296A9 /* firtApleApp.xcdatamodeld */,
+			);
+			path = resourses;
+			sourceTree = "<group>";
+		};
+		6791806B281C0835008EEF76 /* sourses */ = {
+			isa = PBXGroup;
+			children = (
+				6767E86A281AC11400B296A9 /* Persistence.swift */,
+				6767E861281AC11300B296A9 /* firtApleAppApp.swift */,
+				6767E863281AC11300B296A9 /* ContentView.swift */,
+			);
+			path = sourses;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
